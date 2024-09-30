@@ -280,5 +280,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Sqlite.com]: https://miro.medium.com/v2/resize:fit:1200/1*fMPUMki182HzyVZvo_awDw.png
+[Sqlite.com]: https://media.licdn.com/dms/image/v2/C4D12AQGQl7-W8_DEWA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1651402325780?e=2147483647&v=beta&t=pSrVLi-LnR2SDkkyNZC3yRF1mOcDxEAyYyw3XQJQuFc
 [Sqlite-url]: https://sqlite.org 
